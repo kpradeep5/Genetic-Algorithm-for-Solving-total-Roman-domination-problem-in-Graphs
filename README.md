@@ -1,0 +1,1 @@
+# Genetic-Algorithm-for-Solving-total-Roman-domination-problem-in-Graphs
